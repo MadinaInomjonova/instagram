@@ -1,0 +1,17 @@
+.sidebar {
+    flex: 0.15;
+    padding: 0 20px 5px 10px;
+    border-right: 1px solid lightgray;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+}
+
+.MuiSvgIcon-root {
+    font-size: 34px;
+}
+
+ul {
+    margin: 0;
+    padding: 0;
+}

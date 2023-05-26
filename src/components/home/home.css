@@ -1,0 +1,36 @@
+.username {
+    font-weight: bold;
+}
+
+.content__img img {
+    width: 400px;
+    height: 350px;
+}
+
+i .MuiSvgIcon-root {
+    margin-top: 8px;
+    padding-right: 8px;
+    font-size: 23px;
+}
+i .MuiSvgIcon-root:hover {
+    transition: .3s all ease;
+    color: gray;
+}
+
+.send__icon {
+    color: gray;
+}
+.send__icon:hover {
+    color: black;
+    transition: .3s all ease;
+}
+.input {
+    border: 1px solid lightgray !important;
+    padding: 10px;
+    border-radius: 5px;
+
+}
+
+.input:hover {
+    background-color: lightgray;
+}
